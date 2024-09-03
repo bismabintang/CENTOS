@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+        .profile-pic {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 0;
+        }
+        p {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <img src="profile-pic.jpg" alt="Profile Picture" class="profile-pic">
+    <h1>Your Name</h1>
+    <p>Welcome to my personal profile website!</p>
+    <p>I'm a [Your Profession] based in [Your Location].</p>
+</body>
+</html>
